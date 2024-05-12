@@ -1,16 +1,13 @@
-# -app-dev
+### app-dev
 My first repository
-# 
-## My Favorite Movies and Films
-### 
+# Ivan Caballero Cagatin
+
+### Contact Information
+No. 18 Marcela Village 5, Brgy. San Manuel, San Jose Del Monte, Bulacan 3023
+09277550594
+cagatin.311345@sjdelmonte.sti.edu.ph
+
+### About Me
 ---
-1. Big Bang Theory
-2. Avatar: The Last Airbender
-3. The Legend of Korra
-4. 50 First Dates
-5. Heartstopper
-6. Red, White & Royal Blue
-
-Hi [^1]
-
-[^1]: MY Fave movie marathon vibe
+An individual who's always up for a challenge has an experience in a professional environment, training for college, and being job ready. 
+---
