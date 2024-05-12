@@ -10,6 +10,7 @@ My first repository
 4. 50 First Dates
 5. Heartstopper
 6. Red, White & Royal Blue
-Here's a sentence with a footnote. [^1]
 
-[^1]: This is the footnote.
+Hi [^1]
+
+[^1]: MY Fave movie marathon vibe
